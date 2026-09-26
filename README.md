@@ -35,7 +35,7 @@ Replace `/var/log` with any directory you want to archive.
 
 ## 📂 Sample Output
 
-![Sample output showing successful archive creation and also log_archive_tool script](screenshots/output.png)
+![Sample output showing successful archive creation and also log_archive_tool script](screenshots/output_sample.png)
 
 Log file entry (`archives/archive_log.txt`):
 
